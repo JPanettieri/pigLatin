@@ -1,0 +1,19 @@
+['test', 'first', 'line', 'test', 'second', 'line', 'test', 'third', 'line']
+['est-tay', 'irst-fay', 'ine-lay', 'est-tay', 'econd-say', 'ine-lay', 'est-tay', 'ird-thay', 'ine-lay']
+
+['print', 'all', 'test']
+['int-pray', 'all-ay', 'est-tay']
+
+[]
+['123', 'greeting']
+['', 'eeting-gray']
+
+['testing', 'number', 'input', 'translation', '123', '456', '789']
+['esting-tay', 'umber-nay', 'input-ay', 'anslation-tray', '', '', '']
+
+['testing']
+['esting-tay']
+
+['testing']
+['esting-tay']
+
